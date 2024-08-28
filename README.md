@@ -10,7 +10,8 @@
   <h3 align="left">Algunos ejemplos de proyectos</h3>
 <p align="left">
 </p>
- [Calculadora hecha en la Web Con react](https://github.com/Yaswell/calculadora))
+<a href="https://github.com/Yaswell/calculadora" target="_blank">Calculadora hecha en React</a>
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
